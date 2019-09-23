@@ -1,2 +1,3 @@
 # Code from previous lecture 
-df2 = as.data.frame(cbind(Temperature, City, Month))
+# Changed to only be a cbind function, but not as a dataframe 
+df2 = cbind(Temperature, City, Month))
